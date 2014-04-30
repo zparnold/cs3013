@@ -1,0 +1,7 @@
+./doit ls
+./doit make clean
+./shell < in.txt > out.txt
+./shell
+==> ls
+./shell2 
+==> ls &

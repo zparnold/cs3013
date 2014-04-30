@@ -1,0 +1,5 @@
+//zparnold: Zach Arnold (uname -a) output
+
+student@ubuntu:~$ uname -a
+Linux ubuntu 3.2.53-zparnold #1 SMP Mon Jan 20 15:09:53 EST 2014 i686 i686 i386 GNU/Linux
+student@ubuntu:~$

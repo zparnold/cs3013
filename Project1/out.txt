@@ -1,0 +1,18 @@
+doit
+doit2.c
+doit2.o
+doit.c
+doit.o
+in.txt
+main.c
+Makefile
+out.txt
+shell
+==>
+Wall clock time in milliseconds: 103.000 milliseconds
+CPU time: 0 milliseconds user, 0 milliseconds system
+Number of times process was pre-empted involuntarily: 0 
+Number of times process voluntarily gave up CPU: 5 
+Total number of page faults: 274 
+Number of page faults able to be satisfied by kernel: 274 
+==>

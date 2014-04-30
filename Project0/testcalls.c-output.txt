@@ -1,0 +1,14 @@
+//zparnold: Zach Arnold (testcalls.c output)
+
+student@ubuntu:~$ cd Project0/
+student@ubuntu:~/Project0$ ./a.out
+The return values of the system calls are:
+	cs3013_syscall1: 0
+	cs3013_syscall2: 0
+	cs3013_syscall3: 0
+student@ubuntu:~/Project0$ 
+
+
+
+
+

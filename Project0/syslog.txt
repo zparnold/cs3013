@@ -1,0 +1,6 @@
+//zparnold: Zach Arnold
+
+Jan 20 13:48:00 ubuntu kernel: [ 1767.106568] Hello World!
+Jan 20 13:48:42 ubuntu kernel: [ 1809.174687] Cleaning up module.
+Jan 20 13:49:15 ubuntu kernel: [ 1842.414249] Hello World!
+Jan 20 13:49:30 ubuntu kernel: [ 1857.169718] Cleaning up module.
